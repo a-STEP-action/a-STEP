@@ -4,7 +4,7 @@ Welcome!
 This repository is to collect resources to help research and development that is more inclusive.
 You can discuss issues here, and submit research or AT.
 
-This isan open-access resource platform for  best and emerging practice, discussion, collaboration and to collect resources that may help developers and researchers include:
+This is an open-access resource platform for  best and emerging practice, discussion, collaboration and to collect resources that may help developers and researchers include:
 * people with learning and cognitive disabilities;
 * specific learning disabilities, 
 * age related forgetfulness; 
