@@ -15,6 +15,7 @@ It part of  COST Action “advancing Social Inclusion through Technology and Emp
 It is an interdisciplinary, intersectoral pan-European and beyond, network which will enhance social inclusion and empowerment of individuals with Autism Spectrum Disorder (ASD) and/or Intellectual Disability (ID).
 
 
-We also will soon have a google discussion forum with users, to help you brainstorm your ideas. 
+We also  have a google discussion forum with users, to help you brainstorm your ideas. See https://groups.google.com/g/a-step,
+
 
 You can also see our website www.a-step-action.eu .
