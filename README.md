@@ -19,4 +19,7 @@ You can contribute to any of the live documents by raising an appropriate issue 
 <img src="https://www.a-step-action.eu/wp-content/uploads/2021/07/flag_yellow_low-300x201-1.jpg" alt="EU Flag" align="left" height="50" width="75" > COST ACTION 19104
 Funded by the Horizon 2020 Framework Programme of the European Union
 
-info@a-step-action.eu
+<br>
+<br>
+
+Contact us via e-mail at info@a-step-action.eu
