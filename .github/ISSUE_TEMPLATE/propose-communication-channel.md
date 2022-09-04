@@ -17,3 +17,5 @@ Country and language:
 Link: 
 Proposed by: 
 Status:
+
+* Types include: Care givers, end- users, teachers, relatives, parents, friends researchers, colleagues, HR,  developers, experts
