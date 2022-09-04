@@ -1,6 +1,10 @@
 <a href="https://www.a-step-action.eu"><img src="https://www.a-step-action.eu/wp-content/uploads/2021/08/Asset-3.svg" alt = " a-step advancing Social Inclusion through Technology and Empowerment"  align="left" height="100" width="200" ></a>
 
-# a-STEP
+<br>
+<br>
+<br>
+<br>
+
 Welcome!
 
 This repository is created to maintain live documents created within the scope of the [COST Action “advancing Social Inclusion through Technology and Empowerment" (a-STEP)](www.a-step-action.eu). It is an interdisciplinary, intersectoral pan-European and beyond, network which will enhance social inclusion and empowerment of individuals with Autism Spectrum Disorder (ASD) and/or Intellectual Disability (ID).
