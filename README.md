@@ -1,4 +1,4 @@
-<a href="https://www.a-step-action.eu"><img src="https://github.com/a-STEP-action/a-STEP/blob/main/logos/astep_logo_text.png" alt = " a-step advancing Social Inclusion through Technology and Empowerment"  align="left" height="100" width="200" ></a>
+<a href="https://www.a-stepaction.eu/"><img src="https://github.com/a-STEP-action/a-STEP/blob/main/logos/astep_logo_text.png" alt = " a-step advancing Social Inclusion through Technology and Empowerment"  align="left" height="100" width="200" ></a>
 
 <br>
 <br>
@@ -18,10 +18,11 @@ This repository is created to maintain live documents created within the scope o
 
 ***
 
-<img src="https://github.com/a-STEP-action/a-STEP/blob/main/logos/eu_flag.png" alt="EU Flag" align="left" height="50" width="50" > COST ACTION 19104
+<a href="https://www.cost.eu/actions/CA19104/#tabs+Name:Main%20Contacts%20and%20Leadership">
+    <img src="https://github.com/a-STEP-action/a-STEP/blob/main/logos/eu_flag.png" alt="EU Flag" align="left" height="50" width="50" > COST ACTION 19104
 Funded by the Horizon 2020 Framework Programme of the European Union
+</a>
 
 <br>
 <br>
 
-Contact us via e-mail at info@a-step-action.eu
